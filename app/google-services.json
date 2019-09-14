@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "78481977233",
+    "firebase_url": "https://sample-firebase-1d774.firebaseio.com",
+    "project_id": "sample-firebase-1d774",
+    "storage_bucket": "sample-firebase-1d774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78481977233:android:d3bd56ce2aa2a1da913430",
+        "android_client_info": {
+          "package_name": "sastra.panji.dhimas.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78481977233-aa87j726cnmpvlrqrrjsv6ii8kh6fb0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sastra.panji.dhimas.firebase",
+            "certificate_hash": "3c62f35b0acddd9ab5c3fe3e06e0c9b267539a4d"
+          }
+        },
+        {
+          "client_id": "78481977233-a63b4hn5ilr3o7i8k5pok605n514n6fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1Ripg4j5l7EI5pSmwz93OfjXrju5tfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78481977233-a63b4hn5ilr3o7i8k5pok605n514n6fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
